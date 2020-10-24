@@ -56,8 +56,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
           - 5601:5601
           - 9200:9200
           - 5044:5044
-          
-```
+          ```
 This document contains the following details:
 - Description of the Topologu
 - Access Policies
